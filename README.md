@@ -8,7 +8,7 @@ Her er en oversigt over mine projekter.
 
 ## Deltagere
 
-- [Anders - lovetildiganders](https://lovetildiganders.github.io/) ([source](https://github.com/lovetildiganders/lovetildiganders.github.io))
+- [Anders S P- lovetildiganders](https://lovetildiganders.github.io/) ([source](https://github.com/lovetildiganders/lovetildiganders.github.io))
 - [Philip - paul-surf](https://paul-surf.github.io/) ([source](https://github.com/paul-surf/paul-surf.github.io))
 - [Malthe H A - yourmotheristhreeandfatherfour](https://yourmotheristhreeandfatherfour.github.io/) ([source](https://github.com/yourmotheristhreeandfatherfour/yourmotheristhreeandfatherfour.github.io))
 - [Christoffer - chrislibjorn](https://chrislibjorn.github.io/) ([source](https://github.com/chrislibjorn/chrislibjorn.github.io))
@@ -20,6 +20,7 @@ Her er en oversigt over mine projekter.
 
 ### Mangler
 
+- Anders B
 - Andreas
 - Mathilde
 - Jakob
