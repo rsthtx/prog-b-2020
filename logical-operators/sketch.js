@@ -8,5 +8,22 @@ function draw() {
   let x = mouseX;
   let y = mouseY;
 
-  circle(x,y,50)
+  let circleSize = 50
+
+  let xIsLarge = x > 200
+  let yIsLarge = y > 200
+
+  // let xIsSmall = ! xIsLarge
+
+  if (xIsLarge) {
+    circleSize = circleSize * 2
+  }
+
+  if (xIsLarge || !yIsLarge) {
+    fill("red");
+  } else {
+    fill("white");
+  }
+
+  circle(x, y, circleSize)
 }
