@@ -11,6 +11,7 @@ Her er en oversigt over mine projekter.
 - [Anders B - andersbundgaard](https://andersbundgaard.github.io/) ([source](https://github.com/andersbundgaard/andersbundgaard.github.io))
 - [Anders S P- lovetildiganders](https://lovetildiganders.github.io/) ([source](https://github.com/lovetildiganders/lovetildiganders.github.io))
 - [Andreas - mikkelcoder2](https://mikkelcoder2.github.io/) ([source](https://github.com/mikkelcoder2/mikkelcoder2.github.io))
+- [Daniel - danielyde](https://danielyde.github.io/) ([source](https://github.com/danielyde/danielyde.github.io))
 - [Christoffer - chrislibjorn](https://chrislibjorn.github.io/) ([source](https://github.com/chrislibjorn/chrislibjorn.github.io))
 - [Jakub - kubr3x](https://kubr3x.github.io/) ([source](https://github.com/kubr3x/kubr3x.github.io))
 - [Malthe B - DmalleWors](https://DmalleWors.github.io/) ([source](https://github.com/DmalleWors/DmalleWors.github.io))
