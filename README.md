@@ -1,4 +1,4 @@
-# prog-b-2020
+# Prog-B 2020-2022
 
 Her er en oversigt over mine projekter.
 
