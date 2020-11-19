@@ -31,5 +31,4 @@ Her er en oversigt over mine projekter.
 - Jesper
 - Mathilde
 - Oliver
-- Robin
 
