@@ -1,19 +1,13 @@
-const ballCount = 10
+const ballCount = 100
 let ds = new Array(ballCount);
 let xs = new Array(ballCount);
 let ys = new Array(ballCount);
 
+let ySpeed = new Array(ballCount);
+
 function setup() {
-  createCanvas(400, 400);
-
-  for (let i = 0; i < ballCount; i++) {
-    ds[i] = random(0, 50);
-  }
-
-  for (let i = 0; i < ballCount; i++) {
-    xs[i] = random(0, width);
-    ys[i] = random(0, height);
-  }
+  createCanvas(windowWidth, windowHeight);
+  reset(50)
 }
 
 function draw() {
@@ -21,6 +15,21 @@ function draw() {
 
   for (let i = 0; i < ballCount; i++) {
     circle(xs[i], ys[i], ds[i])
-    xs[i]++
+    ys[i] += ySpeed[i];
   }
+}
+
+function reset(maxSize) {
+  for (let i = 0; i < ballCount; i++) {
+    ds[i] = random(0, maxSize);
+    ySpeed[i] = random(0.01, 10);
+    xs[i] = random(0, width);
+    ys[i] = random(0, height/3);
+  }  
+}
+
+
+function mouseClicked() {
+  const s = map(mouseY, 0, height,0,200)
+  reset(s)
 }

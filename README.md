@@ -4,6 +4,7 @@ Her er en oversigt over mine projekter.
 
 - [Min første webside](kageside/)
 - [Min tændstikmand](stickman/)
+- [Array demo](array-demo/)
 
 
 ## Deltagere
