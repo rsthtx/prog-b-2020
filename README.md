@@ -20,6 +20,7 @@ Her er en oversigt over mine projekter.
 - [Malthe H A - yourmotheristhreeandfatherfour](https://yourmotheristhreeandfatherfour.github.io/) ([source](https://github.com/yourmotheristhreeandfatherfour/yourmotheristhreeandfatherfour.github.io))
 - [Mathilde - DeluzionalDevil](https://DeluzionalDevil.github.io/) ([source](https://github.com/DeluzionalDevil/DeluzionalDevil.github.io))
 - [Mikkel - mikkel-coder](https://mikkel-coder.github.io/) ([source](https://github.com/mikkel-coder/mikkel-coder.github.io))
+- [Oliver - ZappQuest](https://ZappQuest.github.io/) ([source](https://github.com/ZappQuest/ZappQuest.github.io))
 - [Patrik - TheRealPSM](https://TheRealPSM.github.io/) ([source](https://github.com/TheRealPSM/TheRealPSM.github.io))
 - [Philip - paul-surf](https://paul-surf.github.io/) ([source](https://github.com/paul-surf/paul-surf.github.io))
 - [Robin - robinamila](https://robinamila.github.io/) ([source](https://github.com/robinamila/robinamila.github.io))
@@ -31,5 +32,4 @@ Her er en oversigt over mine projekter.
 
 - Djoni
 - Jesper
-- Oliver
 
