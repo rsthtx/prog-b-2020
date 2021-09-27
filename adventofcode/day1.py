@@ -24,17 +24,22 @@ def myHelperFunction():
 
 def problemOne():
     global lines
-    print(lines)
+    # print(lines)
 
-    a = int(lines[0]) + int(lines[1])
-    print(a)
-
-    pass
+    for a in lines:
+        for b in lines:
+            # print(int(a) +int(b)) 
+            x = int(a)
+            y = int(b)
+            if 2020 == x + y:
+                print(x,y,x+y,x*y)
+                return x*y
 
 def problemTwo():
     pass
 
 if __name__ == "__main__":
-    # load_data("day1-input.txt")
-    problemOne()
+    load_data("day1-input.txt")
+    resultOne = problemOne()
+    print(resultOne)
     # problemTwo()
