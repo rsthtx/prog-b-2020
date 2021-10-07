@@ -9,8 +9,13 @@ namespace guessing_game
   {
     static void Main(string[] args)
     {
+      int limit = 5;
+      if (args.Length == 1)
+      {
+        int.TryParse(args[0], out limit);
+      }
 
-      GuessingGame game = new GuessingGame(1, 5);
+      GuessingGame game = new GuessingGame(1, limit);
 
       do
       {
