@@ -5,8 +5,8 @@ Her er en oversigt over mine projekter.
 - [Min første webside](kageside/)
 - [Min tændstikmand](stickman/)
 - [Array demo](array-demo/)
-- [Guessing game in c#](https://github.com/rsthtx/prog-b-2020/blob/master/c-sharp/guessing-game/Program.cs) 
-
+- [Guessing game demo in c#](https://github.com/rsthtx/prog-b-2020/blob/master/c-sharp/guessing-game/Program.cs) 
+- [Command line args demo in c#](https://github.com/rsthtx/prog-b-2020/blob/master/c-sharp/cmd-args-demo/Program.cs) 
 
 ## Deltagere
 
@@ -26,11 +26,3 @@ Her er en oversigt over mine projekter.
 - [Philip - paul-surf](https://paul-surf.github.io/) ([source](https://github.com/paul-surf/paul-surf.github.io))
 - [Robin - robinamila](https://robinamila.github.io/) ([source](https://github.com/robinamila/robinamila.github.io))
 - [Sander - a7wayz](https://a7wayz.github.io/) ([source](https://github.com/a7wayz/a7wayz.github.io))
-
-### Mangler
-
-<!-- - [Navn - user](https://user.github.io/) ([source](https://github.com/user/user.github.io)) -->
-
-- Djoni
-- Jesper
-
