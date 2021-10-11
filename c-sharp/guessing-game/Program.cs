@@ -3,8 +3,6 @@
 namespace guessing_game
 {
 
-
-
   class Program
   {
     static void Main(string[] args)
@@ -25,7 +23,6 @@ namespace guessing_game
     }
   }
 
-
   class GuessingGame
   {
     private int min;
@@ -45,7 +42,6 @@ namespace guessing_game
 
       return answer.Equals("y");
     }
-
 
     public void play()
     {
@@ -96,9 +92,6 @@ namespace guessing_game
         }
       }
     }
-
   }
-
-
 
 }
