@@ -8,6 +8,7 @@ Her er en oversigt over mine projekter.
 - [Guessing game demo in c#](https://github.com/rsthtx/prog-b-2020/blob/master/c-sharp/guessing-game/Program.cs) 
 - [Command line args demo in c#](https://github.com/rsthtx/prog-b-2020/blob/master/c-sharp/cmd-args-demo/Program.cs)
 - [String manipulation template](https://github.com/rsthtx/prog-b-2020/blob/master/c-sharp/string-manipulation/Program.cs)
+- [Bunny demo in unity](/unity/bunny-demo/)
 
 ## Deltagere
 
